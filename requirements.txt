@@ -5,3 +5,5 @@ matplotlib
 scanpy
 celltypist
 scipy
+google.cloud
+google.colab
