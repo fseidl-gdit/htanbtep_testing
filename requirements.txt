@@ -7,3 +7,4 @@ celltypist
 scipy
 google-cloud-bigquery
 google.auth
+db-types
