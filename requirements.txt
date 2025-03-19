@@ -6,3 +6,4 @@ scanpy
 celltypist
 scipy
 google.cloud
+google.auth
